@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 521E-B0C6
+
+ Directory of C:\Users\malar\Documents\MyProject
+
+10/01/2020  04:48 PM    <DIR>          .
+10/01/2020  04:48 PM    <DIR>          ..
+10/01/2020  04:48 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  751,323,308,032 bytes free
